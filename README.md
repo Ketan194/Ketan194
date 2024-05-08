@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ketan194
-- 👀 I’m interested in Computer Graphics, Machine Learning, bioinformatics, and software engineering.
-- 🌱 I’m currently learning Advanced Java . 
-- 💞️ I’m looking to collaborate on Machine Learning and Graphics research. 
+- 👀 I’m interested in Artifical Learning (Rienforcment Learning), Machine Learning, and Software Engineering.
+- 🌱 I’m currently learning Advanced AI and am creating intelegent agents for multiple games. 
+- 💞️ I’m looking to work in industry on AI and ML projects/research.
 - 📫 How to reach me: 
   - Email: Ketan.Inampudi@gmail.com
   - Phone: (404)-747-8413
