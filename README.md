@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ketan194
-- 👀 I’m interested in Artifical Learning (Rienforcment Learning), Machine Learning, and Software Engineering.
-- 🌱 I’m currently learning Advanced AI and am creating intelegent agents for multiple games. 
+- 👀 I’m interested in Artificial Learning (Reinforcement Learning), Machine Learning, and Software Engineering.
+- 🌱 I’m currently learning Advanced AI and am creating intelligent agents for multiple games. 
 - 💞️ I’m looking to work in industry on AI and ML projects/research.
 - 📫 How to reach me: 
   - Email: Ketan.Inampudi@gmail.com
